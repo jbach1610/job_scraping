@@ -24,8 +24,12 @@ The goal is to understand where jobs are located, what skills employers demand, 
 
 ## 📊 Key Insights
 - **Skills:** Technical and computer/technology skills are mentioned more frequently than traditional banking or accounting skills, signaling a shift toward data-driven finance roles.
+[Data Clinic Presentation (1).pdf](https://github.com/user-attachments/files/24445554/Data.Clinic.Presentation.1.pdf)
 - **Geography:** While traditional hubs (NY, Chicago, Dallas) dominate, strong opportunities also appear in states like Washington, Arizona, and Colorado.
+![Data Clinic Presentation](https://github.com/user-attachments/assets/30853f11-ab9d-438c-b780-4f2b39c6ffb0)
+[Data Clinic Presentation (2).pdf](https://github.com/user-attachments/files/24445559/Data.Clinic.Presentation.2.pdf)
 - **Industries:** Finance roles extend beyond banking into IT services, healthcare, manufacturing, and consulting.
+![Data Clinic Presentation (1)](https://github.com/user-attachments/assets/3f3b49c2-2f78-4c0e-b62d-398da20aaac2)
 - **Compensation:** Most entry-level finance roles fall between **$40k–$80k**, with select roles exceeding **$100k**, especially in NY and CA.
 - **Work model:** Hybrid roles are increasingly common, reflecting changing workplace norms.
 
