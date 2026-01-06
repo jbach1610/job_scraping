@@ -7,9 +7,6 @@
 This project presents a comprehensive market research study of entry-level finance job postings across the United States, focusing on three key subfields: Investment Banking, Corporate Finance, and Portfolio Management.
 The goal is to understand where jobs are located, what skills employers demand, and how compensation varies, to help students, advisors, and early-career professionals navigate the finance job market more strategically.
 
-📄 **Full Report:**  
-👉 [`Market_Research_Entry_Level_Finance_Jobs.pdf`](`final report & presetation`/Market_Research_Entry_Level_Finance_Jobs.pdf)
-
 ---
 
 ## 🔍 Data & Methodology
