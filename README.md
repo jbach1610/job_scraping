@@ -39,7 +39,7 @@ This project bridges **data analytics and career strategy**, translating large-s
 
 ---
 
-## 🛠️ Tools & Skills Demonstrated
+## 🛠️ Tools & Skills 
 - Python (pandas, data cleaning, analysis)
 - Web scraping & data normalization
 - Data visualization
@@ -54,9 +54,3 @@ This project bridges **data analytics and career strategy**, translating large-s
 - Compare finance vs. adjacent fields (consulting, data analytics)
 - Build an interactive dashboard
 
----
-
-## 📬 Contact
-**Hien (Julie) Bach**  
-Quantitative Economics & Data Analytics  
-Feel free to connect or reach out with questions or for potential collaboration.
